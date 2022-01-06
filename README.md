@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @esalacode, or Eddie
+- 👀 I’m interested in psychology
+- 🌱 I’m currently learning "how to github"
+- 💞️ I’m looking to collaborate on whatever's available
+- 📫 How to reach me: eddieps@pm.me
